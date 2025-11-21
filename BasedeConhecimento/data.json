@@ -1,0 +1,302 @@
+[
+  {
+    "nome": "Cientista de Dados",
+    "descricao": "Aplica estatística e Machine Learning para analisar dados complexos, criar modelos preditivos e extrair insights estratégicos para a tomada de decisão.",
+    "detalhes": "Domínio de linguagens como Python (com bibliotecas como Pandas, Scikit-learn) e R. Conhecimento em modelos estatísticos avançados, Big Data (Spark) e visualização de dados."
+  },
+  {
+    "nome": "Engenheiro de Software",
+    "descricao": "Projeta, desenvolve, testa e mantém sistemas e aplicações de software de grande escala, aplicando princípios de engenharia e padrões de design.",
+    "detalhes": "Foco em arquitetura de sistemas (microsserviços), estruturas de dados, algoritmos e uso de Git/GitHub. Requer proficiência em linguagens como Java, C++ ou Go."
+  },
+  {
+    "nome": "Analista de Dados",
+    "descricao": "Coleta, limpa e interpreta conjuntos de dados para identificar tendências, criar relatórios e visualizações, transformando dados brutos em informações acionáveis.",
+    "detalhes": "Proficiência em SQL para manipulação de dados, ferramentas de BI (Tableau, Power BI) e Excel avançado. Habilidade crucial em comunicação e storytelling com dados."
+  },
+  {
+    "nome": "Analista de Segurança da Informação",
+    "descricao": "Monitora e avalia a postura de segurança de uma organização, implementando políticas e procedimentos para proteger dados e sistemas contra ameaças.",
+    "detalhes": "Familiaridade com frameworks de segurança (ISO 27001), sistemas SIEM (Security Information and Event Management) e gestão de riscos e conformidade (LGPD, GDPR)."
+  },
+  {
+    "nome": "Engenheiro de Cibersegurança",
+    "descricao": "Projeta e constrói arquiteturas e soluções de segurança robustas (redes, cloud, sistemas) para prevenir ataques e garantir a integridade dos ativos digitais.",
+    "detalhes": "Especialização em criptografia, firewalls, IDS/IPS, e arquitetura Zero Trust. Habilidade em Secure Code Review e automação de defesas."
+  },
+  {
+    "nome": "Desenvolvedor Back-End",
+    "descricao": "Cria e mantém a lógica de aplicação no lado do servidor, gerencia bancos de dados, APIs e a integração entre o front-end e o servidor.",
+    "detalhes": "Trabalha com linguagens como Java, Python (Django/Flask), Node.js e Go. Foco em design de APIs RESTful/GraphQL e otimização de consultas SQL/NoSQL."
+  },
+  {
+    "nome": "Desenvolvedor Front-End",
+    "descricao": "Desenvolve a interface gráfica do usuário (UI) de websites e aplicações web, garantindo a experiência visual e interativa por meio de HTML, CSS e JavaScript.",
+    "detalhes": "Domínio de frameworks e bibliotecas modernas (React, Angular, Vue.js). Forte foco em performance web, acessibilidade (WCAG) e design responsivo."
+  },
+  {
+    "nome": "Desenvolvedor Full Stack",
+    "descricao": "Profissional versátil que atua no desenvolvimento tanto do lado do cliente (Front-End) quanto do lado do servidor (Back-End) de uma aplicação.",
+    "detalhes": "Requer profundo conhecimento em um stack completo (ex: MERN, MEAN, LAMP). Habilidade em gerenciar o ciclo de desenvolvimento de ponta a ponta e resolver problemas complexos em ambas as camadas."
+  },
+  {
+    "nome": "Product Owner",
+    "descricao": "Responsável por definir a visão, o roadmap e a priorização do backlog de um produto, maximizando o valor entregue pelo time de desenvolvimento (métodos ágeis).",
+    "detalhes": "Conhecimento aprofundado do mercado e do cliente. Utiliza metodologias ágeis (Scrum, Kanban) e ferramentas de gestão (Jira, Trello) para comunicar requisitos (user stories)."
+  },
+  {
+    "nome": "Arquiteto de Soluções",
+    "descricao": "Traduz os requisitos de negócio em um projeto técnico coeso, escolhendo as tecnologias e os componentes para criar uma solução de software completa.",
+    "detalhes": "Foca na viabilidade técnica, custos e segurança. Desenha diagramas de arquitetura (UML, C4 Model) e domina padrões de arquitetura (serverless, event-driven)."
+  },
+  {
+    "nome": "Engenheiro de Dados",
+    "descricao": "Constrói, testa e mantém pipelines de dados e arquiteturas de Big Data, garantindo que os dados estejam acessíveis e estruturados para cientistas e analistas.",
+    "detalhes": "Proficiência em ferramentas ETL/ELT, sistemas de armazenamento de dados (Data Lakes, Data Warehouses) e programação com Spark, Kafka e linguagens como Python ou Scala."
+  },
+  {
+    "nome": "Especialista em Inteligência Artificial",
+    "descricao": "Lidera o desenvolvimento e a implementação de sistemas de IA, como processamento de linguagem natural (NLP), visão computacional e sistemas de recomendação.",
+    "detalhes": "Foco em Deep Learning e modelos de IA generativa. Utiliza frameworks como TensorFlow e PyTorch e tem forte base em matemática e otimização de algoritmos."
+  },
+  {
+    "nome": "Especialista em Machine Learning",
+    "descricao": "Desenvolve, treina e otimiza algoritmos de Machine Learning, garantindo que os modelos sejam eficientes, precisos e implementáveis em produção.",
+    "detalhes": "Trabalha com MLOps para automação do ciclo de vida do modelo. Habilidade em feature engineering e avaliação de métricas de desempenho do modelo."
+  },
+  {
+    "nome": "Cientista da Computação",
+    "descricao": "Estuda os fundamentos teóricos da computação, desenvolvendo algoritmos, estruturas de dados e métodos para resolver problemas complexos de forma eficiente.",
+    "detalhes": "Foco em pesquisa, teoria da computação, criptografia e sistemas operacionais. Atua em P&D ou em posições que exigem domínio teórico profundo."
+  },
+  {
+    "nome": "Engenheiro de Computação",
+    "descricao": "Integra hardware e software, projetando sistemas de computação, incluindo microprocessadores, placas de circuito e software embarcado.",
+    "detalhes": "Trabalha com VHDL/Verilog para design de hardware e C/C++ para software de baixo nível. Foco em sistemas embarcados, IoT e arquitetura de computadores."
+  },
+  {
+    "nome": "Analista de Big Data",
+    "descricao": "Utiliza ferramentas e plataformas específicas (Hadoop, Spark) para processar, armazenar e analisar grandes volumes de dados não estruturados ou semi-estruturados.",
+    "detalhes": "Especialista em ecossistemas de Big Data e NoSQL (MongoDB, Cassandra). Foco na otimização de performance e escalabilidade de consultas em grandes clusters."
+  },
+  {
+    "nome": "Desenvolvedor Mobile",
+    "descricao": "Cria aplicações de software especificamente para dispositivos móveis (smartphones e tablets) usando plataformas como iOS (Swift/Kotlin) e Android (Java/Kotlin).",
+    "detalhes": "Pode focar em desenvolvimento nativo ou cross-platform (React Native, Flutter). Entendimento crucial de UX mobile, ciclos de vida de apps e publicação em lojas (App Store, Google Play)."
+  },
+  {
+    "nome": "Desenvolvedor de Jogos Digitais",
+    "descricao": "Participa de todas as fases da criação de um jogo, desde a programação de mecânicas e inteligência artificial até a otimização de performance e gráficos.",
+    "detalhes": "Domínio de engines de jogos (Unity ou Unreal Engine) e linguagens como C++ e C#. Habilidade em gráficos 3D/2D, física de jogos e otimização de assets."
+  },
+  {
+    "nome": "Engenheiro de Cloud Computing",
+    "descricao": "Implementa, gerencia e otimiza serviços e infraestrutura de TI em plataformas de nuvem pública (AWS, Azure, GCP), focando em automação e escalabilidade.",
+    "detalhes": "Requer certificações específicas de provedores (ex: AWS Certified Solutions Architect). Foco em virtualização, containers (Docker, Kubernetes) e Infraestrutura como Código (Terraform)."
+  },
+  {
+    "nome": "Especialista em Internet das Coisas (IoT)",
+    "descricao": "Projeta e desenvolve sistemas que integram dispositivos físicos, sensores e redes, permitindo a coleta e o intercâmbio de dados em tempo real.",
+    "detalhes": "Conhecimento em hardware de baixo consumo (Raspberry Pi, Arduino), protocolos de comunicação (MQTT, Zigbee) e segurança de dispositivos edge."
+  },
+  {
+    "nome": "Engenheiro de Hardware",
+    "descricao": "Projeta, desenvolve e testa componentes físicos de computadores e outros dispositivos eletrônicos, como chips, placas-mãe e periféricos.",
+    "detalhes": "Utiliza ferramentas de CAD eletrônico (EDA), VHDL ou Verilog. Foco em microeletrônica, design de PCBs e testes de protótipos de circuitos integrados."
+  },
+  {
+    "nome": "Programador Python",
+    "descricao": "Desenvolve software utilizando a linguagem Python, sendo muito aplicado em desenvolvimento web, análise de dados, machine learning e automação de scripts.",
+    "detalhes": "Foco na versatilidade da linguagem. Pode trabalhar com Flask/Django (Web), Pandas/Numpy (Dados) ou automação de tarefas de sistemas operacionais e redes."
+  },
+  {
+    "nome": "Programador Java",
+    "descricao": "Cria aplicações robustas e escaláveis, principalmente para sistemas empresariais de grande porte, Android nativo e soluções de Back-End.",
+    "detalhes": "Domínio do ecossistema Java (Spring Framework, Hibernate) e da Máquina Virtual Java (JVM). Foco em performance, segurança e arquitetura orientada a serviços (SOA)."
+  },
+  {
+    "nome": "Programador C#",
+    "descricao": "Desenvolve aplicações Back-End usando a plataforma .NET da Microsoft, sendo popular em sistemas corporativos, desenvolvimento de jogos (Unity) e aplicativos Windows.",
+    "detalhes": "Trabalha primariamente com o framework .NET. Foco em soluções empresariais, desenvolvimento de APIs Web e integração com o ecossistema Azure/Microsoft."
+  },
+  {
+    "nome": "Programador Web",
+    "descricao": "Cria websites e aplicações que rodam em navegadores, utilizando linguagens como JavaScript, HTML e CSS, e frameworks modernos.",
+    "detalhes": "Termo guarda-chuva que inclui Front-End e Full Stack. O foco principal é a entrega de código funcional, otimizado e compatível entre diferentes navegadores (cross-browser)."
+  },
+  {
+    "nome": "UI/UX Designer",
+    "descricao": "Garante que o produto seja visualmente atraente (UI) e a jornada do usuário seja eficiente, lógica e agradável (UX) através de pesquisa e prototipagem.",
+    "detalhes": "Utiliza ferramentas como Figma, Sketch e Adobe XD. Foco em testes de usabilidade, wireframing, design systems e pesquisa com usuários (UX Research)."
+  },
+  {
+    "nome": "Designer de Web",
+    "descricao": "Cria o layout, os elementos visuais e a estética geral de um website, focando na usabilidade e na identidade visual da marca.",
+    "detalhes": "Foco em design de interfaces, tipografia, teoria das cores e otimização de imagens para a web. Colabora de perto com desenvolvedores Front-End."
+  },
+  {
+    "nome": "Analista de Testes de Software",
+    "descricao": "Desenvolve e executa planos de teste (funcionais, de performance, de regressão) para identificar bugs, garantindo a qualidade e o desempenho do software antes do lançamento.",
+    "detalhes": "Utiliza ferramentas de automação de testes (Selenium, Cypress, Jest), frameworks de teste e metodologias (TDD, BDD). Foco em garantir a cobertura de código (code coverage)."
+  },
+  {
+    "nome": "Especialista em Realidade Aumentada/Virtual",
+    "descricao": "Cria e desenvolve ambientes e aplicações imersivas utilizando tecnologias de AR (sobreposição digital) e VR (ambiente simulado) para jogos, treinamento e simulação.",
+    "detalhes": "Trabalha com engines como Unity ou Unreal Engine, e SDKs específicos (ARKit, ARCore, Oculus SDK). Foco em otimização gráfica e interação 3D."
+  },
+  {
+    "nome": "Analista de Infraestrutura de TI",
+    "descricao": "Gerencia e mantém a infraestrutura física e lógica (servidores, redes, sistemas operacionais) que suporta as operações de TI da empresa.",
+    "detalhes": "Foco em sistemas operacionais (Linux, Windows Server), virtualização (VMware), monitoramento de rede e resolução de problemas (troubleshooting) de alta disponibilidade."
+  },
+  {
+    "nome": "Gerente de Projetos de Tecnologia",
+    "descricao": "Planeja, executa e monitora projetos de TI, coordenando equipes, recursos e cronogramas para garantir que os objetivos sejam atingidos dentro do prazo e orçamento.",
+    "detalhes": "Deve possuir certificações (PMP, CAPM) e experiência com metodologias ágeis ou em cascata. Foco na gestão de stakeholders, comunicação e mitigação de riscos."
+  },
+  {
+    "nome": "Analista de Business Intelligence (BI)",
+    "descricao": "Transforma dados brutos em informações de negócio valiosas por meio de ferramentas de visualização (Power BI, Tableau), auxiliando na tomada de decisão gerencial.",
+    "detalhes": "Foco em modelagem de dados (DWH, Data Marts), criação de dashboards e ETL (Extração, Transformação e Carga) de dados para consumo empresarial."
+  },
+  {
+    "nome": "Gerente de DevOps",
+    "descricao": "Lidera a cultura e a implementação das práticas de DevOps, focando na automação e otimização dos processos de desenvolvimento e operações, e na gestão da equipe.",
+    "detalhes": "Foco em alinhamento cultural, adoção de ferramentas e métricas (DORA). Garante a integração contínua (CI) e entrega contínua (CD) em toda a organização."
+  },
+  {
+    "nome": "Engenheiro de DevOps",
+    "descricao": "Implementa pipelines de CI/CD (Integração e Entrega Contínuas), gerencia a infraestrutura como código (IaC) e automatiza o ciclo de vida do software.",
+    "detalhes": "Domínio de ferramentas como Docker, Kubernetes, Jenkins/GitLab CI e Terraform/Ansible. Foco na automação, observabilidade (Prometheus, Grafana) e escalabilidade."
+  },
+  {
+    "nome": "Arquiteto de Redes",
+    "descricao": "Projeta, planeja e implementa as redes de comunicação de dados de uma organização, garantindo segurança, velocidade e escalabilidade da infraestrutura de rede.",
+    "detalhes": "Conhecimento aprofundado em protocolos de rede (TCP/IP), roteamento, switching, LAN/WAN e SDN (Software-Defined Networking). Muitas vezes requer certificações Cisco ou Juniper."
+  },
+  {
+    "nome": "Analista de Suporte Técnico",
+    "descricao": "Fornece assistência e resolução de problemas técnicos (hardware, software, rede) para usuários internos ou clientes, mantendo a operação dos sistemas.",
+    "detalhes": "Foco em atendimento de primeiro e segundo nível, gestão de tickets (ServiceNow, Zendesk) e ITIL. Habilidade em comunicação clara e resolução rápida de incidentes."
+  },
+  {
+    "nome": "Consultor de Nuvem",
+    "descricao": "Aconselha empresas sobre a estratégia de migração para a nuvem, otimização de custos e arquitetura de soluções nas principais plataformas cloud.",
+    "detalhes": "Visão de negócio e técnica. Foco em TCO (Custo Total de Propriedade), governança em nuvem, migração Lift-and-Shift e refactoring de aplicações legadas."
+  },
+  {
+    "nome": "Especialista em Blockchain",
+    "descricao": "Desenvolve e implementa aplicações descentralizadas (dApps) e contratos inteligentes, explorando o potencial de segurança e transparência da tecnologia Blockchain.",
+    "detalhes": "Domínio de linguagens como Solidity (Ethereum) ou Rust (Solana). Conhecimento em protocolos de consenso (PoW, PoS) e segurança de carteiras digitais."
+  },
+  {
+    "nome": "Pentester",
+    "descricao": "Realiza testes de penetração ('ethical hacking') para identificar e explorar vulnerabilidades de segurança em sistemas, aplicações e redes, com o objetivo de corrigi-las.",
+    "detalhes": "Utiliza ferramentas como Kali Linux, Metasploit e Burp Suite. Foco em testes Black Box/White Box e elaboração de relatórios detalhados com provas de conceito."
+  },
+  {
+    "nome": "Especialista em Computação em Nuvem",
+    "descricao": "Domina os serviços e as melhores práticas de uma ou mais plataformas de nuvem, focando em otimização, governança e implantação de ambientes complexos.",
+    "detalhes": "Foco em IaaS, PaaS e SaaS. Habilidade em configurar VPCs, balanceamento de carga, monitoramento e estratégias de backup e recuperação de desastres (DR)."
+  },
+  {
+    "nome": "Analista de Sistemas",
+    "descricao": "Atua como ponte entre o negócio e a tecnologia, analisando requisitos e desenhando a estrutura lógica e funcional dos sistemas de informação.",
+    "detalhes": "Foco em levantamento de requisitos (entrevistas, workshops), modelagem de processos (BPMN) e criação de diagramas de sistemas (UML) e especificações funcionais."
+  },
+  {
+    "nome": "Engenheiro de Robótica",
+    "descricao": "Projeta, constrói e programa robôs e sistemas automatizados, integrando hardware (mecânica e eletrônica) e software (controle e inteligência artificial).",
+    "detalhes": "Trabalha com o Robot Operating System (ROS), sistemas de visão computacional e controle de movimento. Foco em automação industrial e robôs colaborativos (cobots)."
+  },
+  {
+    "nome": "Scrum Master",
+    "descricao": "Facilita o processo ágil de desenvolvimento (Scrum), remove impedimentos, garante a aderência às práticas e serve como coach para o time e a organização.",
+    "detalhes": "Foco em facilitação de eventos (daily, planning, review, retrospectiva), gestão de conflitos e métricas de time (velocidade). Não é um gerente, mas um líder servidor."
+  },
+  {
+    "nome": "CTO (Chief Technology Officer)",
+    "descricao": "Diretor(a) Executivo(a) que define a estratégia tecnológica de longo prazo da empresa, supervisionando a inovação e o desenvolvimento de novos produtos e arquiteturas.",
+    "detalhes": "Foco em visão de futuro, gestão de grandes orçamentos de P&D, avaliação de novas tecnologias e atração/retenção de talentos de engenharia. É um papel C-level."
+  },
+  {
+    "nome": "CIO (Chief Information Officer)",
+    "descricao": "Diretor(a) responsável pela estratégia de TI da organização, gerenciando as operações diárias, infraestrutura e o alinhamento da tecnologia com os objetivos de negócio.",
+    "detalhes": "Foco na eficiência operacional da TI, segurança da informação, aquisição de tecnologia e manutenção dos sistemas centrais de negócio (ERP, CRM). É um papel C-level."
+  },
+  {
+    "nome": "Tech Lead",
+    "descricao": "Líder técnico que orienta a equipe de desenvolvimento em decisões técnicas, revisões de código e padrões de arquitetura, mantendo-se ativamente envolvido na codificação.",
+    "detalhes": "Foco em mentorar desenvolvedores, garantir a qualidade do código (code review), resolver impedimentos técnicos e evangelizar melhores práticas de engenharia."
+  },
+  {
+    "nome": "Especialista em Salesforce",
+    "descricao": "Configura, personaliza e gerencia a plataforma Salesforce (CRM), desenvolvendo soluções para otimizar vendas, marketing e serviços ao cliente.",
+    "detalhes": "Trabalha com Apex (linguagem de programação da Salesforce), Visualforce e Lightning Components. Foco em integrações, fluxos de trabalho e gestão do CRM."
+  },
+  {
+    "nome": "Especialista em Transformação Digital",
+    "descricao": "Lidera a mudança estratégica e cultural na empresa, implementando tecnologias digitais para remodelar processos, modelos de negócio e a experiência do cliente.",
+    "detalhes": "Foco em inovação, gestão de mudança, e adoção de metodologias ágeis e tecnologias emergentes. Atua como um agente de mudança entre diferentes áreas da empresa."
+  },
+  {
+    "nome": "Analista de Performance",
+    "descricao": "Mede, monitora e otimiza o desempenho de websites, aplicações e campanhas digitais, usando métricas e ferramentas de análise para melhorar resultados de negócio.",
+    "detalhes": "Utiliza ferramentas de Web Analytics (Google Analytics), A/B testing, e monitoramento de desempenho (APM). Foco em taxa de conversão (CRO) e velocidade de carregamento."
+  },
+  {
+    "nome": "Especialista em Segurança Digital para VR",
+    "descricao": "Projeta e implementa medidas de segurança específicas para proteger ambientes de Realidade Virtual e Aumentada, lidando com privacidade de dados imersivos e vulnerabilidades de hardware.",
+    "detalhes": "Foco em segurança de sensores, biometria, privacidade de dados de rastreamento de movimento e proteção contra ataques de manipulação de percepção em ambientes virtuais."
+  },
+  {
+    "nome": "Investigador Forense de Deepfake",
+    "descricao": "Utiliza técnicas de análise digital e inteligência artificial para detectar, analisar e rastrear a origem de mídias sintéticas (vídeos e áudios deepfake).",
+    "detalhes": "Requer conhecimento em Visão Computacional, técnicas de Steganografia e ferramentas de análise forense de vídeo. Foco em autenticidade e proveniência de mídias."
+  },
+  {
+    "nome": "Analista de Insights",
+    "descricao": "Vai além da simples análise de dados, focando na descoberta de padrões e tendências ocultas para gerar recomendações criativas e insights profundos que impulsionam o crescimento.",
+    "detalhes": "Combina habilidades de Data Science com a visão de negócio. Foco em pesquisas qualitativas e quantitativas para identificar 'o porquê' por trás dos números."
+  },
+  {
+    "nome": "Bioinformacionista",
+    "descricao": "Aplica ciência da computação, estatística e IA para analisar dados biológicos complexos (genomas, proteínas), auxiliando em pesquisas médicas e biotecnológicas.",
+    "detalhes": "Trabalha com sequenciamento de DNA/RNA, montagem de genomas e desenvolvimento de algoritmos para análise de grandes conjuntos de dados biológicos. Usa Python e ferramentas específicas da área."
+  },
+  {
+    "nome": "Engenheiro de Plataforma",
+    "descricao": "Cria e mantém o conjunto de ferramentas e serviços internos (a 'plataforma') que os Engenheiros de Software usam para construir, implantar e operar suas aplicações de forma eficiente.",
+    "detalhes": "Foco em Developer Experience (DX), abstração de infraestrutura, Kubernetes, Service Mesh e gestão de observabilidade, atuando como um 'DevOps para desenvolvedores'."
+  },
+  {
+    "nome": "Especialista em Energias Renováveis",
+    "descricao": "Projeta e otimiza sistemas de energia limpa (solar, eólica), utilizando tecnologia e análise de dados para aumentar a eficiência e a integração de redes inteligentes (Smart Grids).",
+    "detalhes": "Aplica modelagem computacional (simulação), IoT para monitoramento de painéis/turbinas e Big Data para previsão de geração de energia e otimização da rede elétrica."
+  },
+  {
+    "nome": "Analista de Qualidade de Software",
+    "descricao": "Responsável por todo o ciclo de qualidade, desde a prevenção de defeitos no início do desenvolvimento até a execução e automação de testes rigorosos.",
+    "detalhes": "Foco em planejamento estratégico de testes (QA Strategy), implementação de testes não funcionais (usabilidade, segurança) e integração contínua (Continuous Testing)."
+  },
+  {
+    "nome": "Arquiteto de Malha de Cibersegurança",
+    "descricao": "Projeta uma arquitetura de segurança distribuída e escalável (Security Mesh), garantindo que as políticas de segurança sigam os usuários e os dados, independentemente de sua localização.",
+    "detalhes": "Foco em identidade (IAM), micro-segmentação e API Gateway. Essencial para ambientes multicloud e arquiteturas distribuídas, garantindo controle de acesso granular."
+  },
+  {
+    "nome": "Especialista em Growth Hacking",
+    "descricao": "Utiliza uma mentalidade de experimentação rápida e análise de dados para identificar e implementar estratégias de marketing e produto que maximizem o crescimento de usuários e receitas.",
+    "detalhes": "Foco em funis AARRR (Aquisição, Ativação, Retenção, Receita, Referência). Utiliza testes A/B/multivariados, análise de funil e automação de marketing (Marketing Automation)."
+  },
+  {
+    "nome": "Desenhista de Simulações de Desastres",
+    "descricao": "Cria modelos computacionais e simulações avançadas para prever o impacto e o comportamento de desastres naturais ou tecnológicos, auxiliando no planejamento de emergências.",
+    "detalhes": "Utiliza software de modelagem complexa (Finite Element Analysis, CFD) e Big Data para calibrar simulações. Foco em cenários de risco, infraestrutura crítica e resiliência."
+  },
+  {
+    "nome": "Educador Digital",
+    "descricao": "Desenvolve e ministra conteúdos e treinamentos em ambientes digitais, utilizando tecnologias interativas para facilitar o aprendizado e a aquisição de novas habilidades tecnológicas.",
+    "detalhes": "Foco em Learning Management Systems (LMS), design instrucional (Instructional Design) e metodologias ativas de aprendizagem, como gamificação e microlearning."
+  }
+]
